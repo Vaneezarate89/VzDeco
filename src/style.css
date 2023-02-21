@@ -1,0 +1,20 @@
+*{margin:0;
+padding: 0;
+box-sizing: border-box;}
+
+.nav-link{
+        font-size: 22px;
+        color: rgb(70, 2, 92);
+    }
+
+.navbar-brand{ 
+    color:blueviolet;
+}
+
+.bienvenida{
+    color:cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+}
+
